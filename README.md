@@ -6,8 +6,8 @@ Transcranial direct current stimulation with functional magnetic resonance imagi
 Davide Nardo,Megan Creasey, Clive Negus, Katerina Pappa, Alphonso Reid, Oliver Josephs, Martina F. Callaghan, Jenny T. Crinion
 
 
-Available via the Centre for Open Science:
-https://doi.org/10.31219/osf.io/npk3g
+Available via Wellcome Open Research:
+https://wellcomeopenresearch.org/articles/6-143
 
 
 Requirements:
